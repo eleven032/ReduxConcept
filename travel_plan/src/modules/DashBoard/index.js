@@ -1,9 +1,9 @@
 import React from 'react';
 
+import SiderSection from './components/SiderSection';
+
 export default function DashBoard() {
   return (
-    <div>
-      placeHolder
-    </div>
+    <SiderSection />
   );
 };
